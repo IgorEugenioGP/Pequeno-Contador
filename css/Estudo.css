@@ -1,0 +1,38 @@
+body{
+    background-image: url(/fundo/download.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.Conteine{
+    color: white;
+}
+#numero {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+button {
+    padding: 12px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#Mais {
+    background-color: green;
+    color: white;
+}
+
+#Menos {
+    background-color: red;
+    color: white;
+}
+
+#zeor {
+    background-color: gray;
+    color: white;
+}
